@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2026 Rani Kumari (https://codepen.io/editor/wjpccpgb-the-scripter/pen/019f29c1-f529-7b38-b0b8-61e5663866e7)
+Copyright (c) 2026 Rani Kumari (https://codepen.io/editor/wjpccpgb-the-scripter/pen/019f2c0b-ae29-71c3-8ff9-d0850708dc68)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
